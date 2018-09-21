@@ -1,2 +1,2 @@
-# barbershopProject
-Project #1
+# barbershop
+ #1
